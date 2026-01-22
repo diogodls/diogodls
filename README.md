@@ -169,9 +169,8 @@ Focused on clean code, best practices, and scalable solutions.
     <img
         alt="GitHub Stats" 
         height="200" 
-        style="padding-right: 10px;" 
         src="https://github-readme-stats.vercel.app/api?username=diogodls&show_icons=true&theme=tokyonight" 
-    />
+    />  &nbsp;&nbsp;
     <img 
       alt="GitHub Stats"
       height="200"
