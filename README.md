@@ -163,8 +163,6 @@ Focused on clean code, best practices, and scalable solutions.
     />
 </p>
 
-<br />
-
 ### 📊 Estatísticas
 
 <p>
